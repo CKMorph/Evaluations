@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/403498029.svg)](https://zenodo.org/badge/latestdoi/403498029)
+
 # Evaluations
 This repository contains two datasets for evaluating the morphological analyzer of the Central Kurdish language.
 
